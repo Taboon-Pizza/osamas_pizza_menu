@@ -45,15 +45,23 @@
 ### price : 25 $ .
 ### description : Pizza with Corns.
 <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXRXHs9Up6rflkD_Lwruamo7Ww1FwWtqVmJa-lQvbaG2MyqTBG">
-#7- Herbs pizza
+
+--------
+
+# 7- Herbs pizza
 ## price: 15 NIS
 ## Description: Pizza with an assortment of fresh herbs: rosemary, Thyme, oregano ect.
 <img src="https://cdn.cdkitchen.com/recipes/images/2016/03/69565-5025-mx.jpg">
+
+------
+
 #8- Pineapple Pizza
 ## price : 16 NIS
 ## Description: Pizza with fresh pineapples pieces.
 <img src="http://hotcountry1035.com/wp-content/uploads/2017/02/pine.jpeg">
-##9- Turkish pizza
+
+----------
+## 9- Turkish pizza
 ## Price: 17 NIS
 ## Description: Pizza with the secret turkish recipe.
 <img src="https://www.sbs.com.au/food/sites/sbs.com.au.food/files/styles/full/public/Lahmacun-%28turkish-pizza%29.jpg?itok=qNEyKbMz">
