@@ -1,11 +1,27 @@
 # osamas_pizza_menu
 
+<<<<<<< HEAD
+
+| *Item*           | *Price* | *Decription*                                                                                                           |
+| :--------------: | :-----: | :--------------------------------------------------------------------------------------------------------------------: |
+| Pizza Marinara   | 50$     | Features tomatoes, garlic, oregano, and extra virgin olive oil                                                         |
+| Pizza Margherita | 55$     | Features tomatoes, sliced mozzarella, basil, and extra virgin olive oil                                                |
+| Neapolitan Pizza | 60$     | latbread with tomatoes, cheese, oil, and garlic – was affordable and readily available through numerous street vendors |
+-----
+
+# 1-Pizza
+
+## price: 150 NIC
+
+## description : Pizza is a traditional Italian dish consisting of a yeasted flatbread typically topped with tomato sauce and cheese and baked in an oven. It can also be topped with additional vegetables, meats, and condiments, and can be made without cheese.
+=======
 
 ## 1-Pizza
 
 ### price: 150 NIC
 
 ### description : Pizza is a traditional Italian dish consisting of a yeasted flatbread typically topped with tomato sauce and cheese and baked in an oven. It can also be topped with additional vegetables, meats, and condiments, and can be made without cheese.
+>>>>>>> bb3bdeb3e71b7627636ffe6c1122b357ba430fe1
 <img src="https://www.cicis.com/media/1243/pizza_adven_zestypepperoni.png"> 
 
 ---------
