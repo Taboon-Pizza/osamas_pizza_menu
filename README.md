@@ -5,7 +5,7 @@
 ## price: 150 NIC
 
 ## description : Pizza is a traditional Italian dish consisting of a yeasted flatbread typically topped with tomato sauce and cheese and baked in an oven. It can also be topped with additional vegetables, meats, and condiments, and can be made without cheese.
-<img src="https://www.cicis.com/media/1243/pizza_adven_zestypepperoni.png"> 
+<img src="https://www.cicis.com/media/1243/pizza_adven_zestypepperoni.png">
 
 
 #2-Burger
@@ -24,3 +24,15 @@
 
 <img src="https://www.simplyrecipes.com/wp-content/uploads/2011/08/barbecued-chicken-on-the-grill-horiz-a-1200.jpg">
 
+#4- Herbs pizza
+## price: 15 NIS
+## Description: Pizza with an assortment of fresh herbs: rosemary, Thyme, oregano ect.
+<img src="https://cdn.cdkitchen.com/recipes/images/2016/03/69565-5025-mx.jpg">
+#5- Pineapple Pizza
+## price : 16 NIS
+## Description: Pizza with fresh pineapples pieces.
+<img src="http://hotcountry1035.com/wp-content/uploads/2017/02/pine.jpeg">
+##6- Turkish pizza
+## Price: 17 NIS
+## Description: Pizza with the secret turkish recipe.
+<img src="https://www.sbs.com.au/food/sites/sbs.com.au.food/files/styles/full/public/Lahmacun-%28turkish-pizza%29.jpg?itok=qNEyKbMz">
