@@ -1,21 +1,21 @@
-Ahmad F. Libda
+### Ahmad F. Libda
 
-<img src='mypicture' alt='AFAL'>
+
 
 Favorite songs:
 
-<ul>
-    <li>Song1</li>
-    <li>Song2</li>
-    <li>Song3</li>
-    <li>Song4</li>
-    <li>Song5</li>
-</ul>
+* song 1
+* song 2
+* song 3
+* song 4
+* song 5
 
-<script>
-//Example of For Loop in Js:
-for(var i = 0;i<=999999;i++){
-    console.log(i);
+
+### Example of For Loop in Js:
+
+```JAVA
+for(int i = 0;i<=999999;i++){
+System.out.println("Hello Git!");
 }
-</script>
+```
 

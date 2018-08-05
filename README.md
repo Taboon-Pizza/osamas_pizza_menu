@@ -1,5 +1,15 @@
 # osamas_pizza_menu
 
+<<<<<<< HEAD
+=======
+   Meal   |Price| Ingredients
+Meal No 1 | 15$ | I1 + I4 + I7
+Meal No 2 | 17$ | I3 + I4 + I5
+Meal No 3 | 11$ | I6 + I9 + I2
+
+
+
+>>>>>>> 7047d7862e861f5b945594d3ba795addb66f8a1c
 
 # 1-Pizza
 
@@ -33,17 +43,22 @@
 ## 4- Veggies Pizza :
 ### price : 20$ .
 ## description : Pizza with vegitables.
+<img src = "https://www.tasteofhome.com/wp-content/uploads/2017/10/exps9863_PWA59541C80A-1.jpg">
+
 -----
 
 
 ## 5- Tuna Pizza :
 ### price : 30 $ .
 ## description : Pizza with tuna.
+<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZg4xQ-0kvGMd_4VsjCINY5zeJAkTypuf74y-X6PsVpO49uHZv">
+
 ------
 
 ## 6- Corn Pizza :
 ### price : 25 $ .
 ## description : Pizza with Corns.
+<<<<<<< HEAD
 
 
 #7-shawermaa
@@ -65,3 +80,6 @@ description : "These are served in every restaurant in the Middle East. You can 
 price: 50 NIC
 description:Maftoul or Palestinian couscous is a traditional staple food in Palestine, typically made and served in occasions and holidays. Couscous is originated in Morocco and brought by Moroccan migrants to Palestine where it has been modified to what’s called maftoul.  Although maftoul is considered as a special type of couscous but its made from different ingredients and it also has a different shape.
 ![](http://www.kitchenofpalestine.com/wp-content/uploads/2013/03/Palestinian-Couscous-Maftoul-700x466.jpg)
+=======
+<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXRXHs9Up6rflkD_Lwruamo7Ww1FwWtqVmJa-lQvbaG2MyqTBG">
+>>>>>>> 7047d7862e861f5b945594d3ba795addb66f8a1c
