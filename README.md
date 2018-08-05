@@ -4,11 +4,7 @@
 
 ## price: 150 NIC
 
-## description : Pizza is a traditional Italian dish consisting of a yeasted flatbread typically topped with tomato sauce and cheese and baked in an oven. It can also be topped with additional vegetables, meats, and condiments, and can be made without cheese.
-<img src="https://www.cicis.com/media/1243/pizza_adven_zestypepperoni.png">
 
-### description : Pizza is a traditional Italian dish consisting of a yeasted flatbread typically topped with tomato sauce and cheese and baked in an oven. It can also be topped with additional vegetables, meats, and condiments, and can be made without cheese.
-<img src="https://www.cicis.com/media/1243/pizza_adven_zestypepperoni.png"> 
 ## description : Pizza is a traditional Italian dish consisting of a yeasted flatbread typically topped with tomato sauce and cheese and baked in an oven. It can also be topped with additional vegetables, meats, and condiments, and can be made without cheese.
 <img src="https://www.cicis.com/media/1243/pizza_adven_zestypepperoni.png">
 
