@@ -1,6 +1,9 @@
 # osamas_pizza_menu
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> dedf61d621e455afa7e768c11f1caaddac054fc6
 ## 1-Pizza
 
 ### price: 150 NIC
